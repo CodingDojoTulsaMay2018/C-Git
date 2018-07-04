@@ -1,0 +1,11 @@
+/Users/mac/Desktop/AccessModifiers/bin/Debug/netcoreapp2.0/AccessModifiers.deps.json
+/Users/mac/Desktop/AccessModifiers/bin/Debug/netcoreapp2.0/AccessModifiers.runtimeconfig.json
+/Users/mac/Desktop/AccessModifiers/bin/Debug/netcoreapp2.0/AccessModifiers.runtimeconfig.dev.json
+/Users/mac/Desktop/AccessModifiers/bin/Debug/netcoreapp2.0/AccessModifiers.dll
+/Users/mac/Desktop/AccessModifiers/bin/Debug/netcoreapp2.0/AccessModifiers.pdb
+/Users/mac/Desktop/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.AssemblyInfoInputs.cache
+/Users/mac/Desktop/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.AssemblyInfo.cs
+/Users/mac/Desktop/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.dll
+/Users/mac/Desktop/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.pdb
+/Users/mac/Desktop/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.csprojResolveAssemblyReference.cache
