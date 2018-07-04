@@ -1,0 +1,10 @@
+/Users/mac/Desktop/RpgGame/obj/Debug/netcoreapp2.0/RpgGame.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/RpgGame/obj/Debug/netcoreapp2.0/RpgGame.AssemblyInfoInputs.cache
+/Users/mac/Desktop/RpgGame/obj/Debug/netcoreapp2.0/RpgGame.AssemblyInfo.cs
+/Users/mac/Desktop/RpgGame/bin/Debug/netcoreapp2.0/RpgGame.deps.json
+/Users/mac/Desktop/RpgGame/bin/Debug/netcoreapp2.0/RpgGame.runtimeconfig.json
+/Users/mac/Desktop/RpgGame/bin/Debug/netcoreapp2.0/RpgGame.runtimeconfig.dev.json
+/Users/mac/Desktop/RpgGame/bin/Debug/netcoreapp2.0/RpgGame.dll
+/Users/mac/Desktop/RpgGame/bin/Debug/netcoreapp2.0/RpgGame.pdb
+/Users/mac/Desktop/RpgGame/obj/Debug/netcoreapp2.0/RpgGame.dll
+/Users/mac/Desktop/RpgGame/obj/Debug/netcoreapp2.0/RpgGame.pdb

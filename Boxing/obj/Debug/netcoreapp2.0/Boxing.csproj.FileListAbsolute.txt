@@ -1,0 +1,10 @@
+/Users/mac/Desktop/Boxing/bin/Debug/netcoreapp2.0/Boxing.deps.json
+/Users/mac/Desktop/Boxing/bin/Debug/netcoreapp2.0/Boxing.runtimeconfig.json
+/Users/mac/Desktop/Boxing/bin/Debug/netcoreapp2.0/Boxing.runtimeconfig.dev.json
+/Users/mac/Desktop/Boxing/bin/Debug/netcoreapp2.0/Boxing.dll
+/Users/mac/Desktop/Boxing/bin/Debug/netcoreapp2.0/Boxing.pdb
+/Users/mac/Desktop/Boxing/obj/Debug/netcoreapp2.0/Boxing.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Boxing/obj/Debug/netcoreapp2.0/Boxing.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Boxing/obj/Debug/netcoreapp2.0/Boxing.AssemblyInfo.cs
+/Users/mac/Desktop/Boxing/obj/Debug/netcoreapp2.0/Boxing.dll
+/Users/mac/Desktop/Boxing/obj/Debug/netcoreapp2.0/Boxing.pdb

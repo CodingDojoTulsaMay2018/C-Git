@@ -1,0 +1,10 @@
+/Users/mac/Desktop/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.AssemblyInfo.cs
+/Users/mac/Desktop/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.deps.json
+/Users/mac/Desktop/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.runtimeconfig.json
+/Users/mac/Desktop/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.runtimeconfig.dev.json
+/Users/mac/Desktop/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.dll
+/Users/mac/Desktop/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.pdb
+/Users/mac/Desktop/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.dll
+/Users/mac/Desktop/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.pdb

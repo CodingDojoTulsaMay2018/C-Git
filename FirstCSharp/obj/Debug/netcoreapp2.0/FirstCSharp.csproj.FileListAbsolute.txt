@@ -1,0 +1,11 @@
+/Users/mac/Desktop/FirstCSharp/bin/Debug/netcoreapp2.0/FirstCSharp.deps.json
+/Users/mac/Desktop/FirstCSharp/bin/Debug/netcoreapp2.0/FirstCSharp.runtimeconfig.json
+/Users/mac/Desktop/FirstCSharp/bin/Debug/netcoreapp2.0/FirstCSharp.runtimeconfig.dev.json
+/Users/mac/Desktop/FirstCSharp/bin/Debug/netcoreapp2.0/FirstCSharp.dll
+/Users/mac/Desktop/FirstCSharp/bin/Debug/netcoreapp2.0/FirstCSharp.pdb
+/Users/mac/Desktop/FirstCSharp/obj/Debug/netcoreapp2.0/FirstCSharp.csprojResolveAssemblyReference.cache
+/Users/mac/Desktop/FirstCSharp/obj/Debug/netcoreapp2.0/FirstCSharp.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/FirstCSharp/obj/Debug/netcoreapp2.0/FirstCSharp.AssemblyInfoInputs.cache
+/Users/mac/Desktop/FirstCSharp/obj/Debug/netcoreapp2.0/FirstCSharp.AssemblyInfo.cs
+/Users/mac/Desktop/FirstCSharp/obj/Debug/netcoreapp2.0/FirstCSharp.dll
+/Users/mac/Desktop/FirstCSharp/obj/Debug/netcoreapp2.0/FirstCSharp.pdb

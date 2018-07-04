@@ -1,0 +1,10 @@
+/Users/mac/Desktop/CollectionPractice/bin/Debug/netcoreapp2.0/CollectionPractice.deps.json
+/Users/mac/Desktop/CollectionPractice/bin/Debug/netcoreapp2.0/CollectionPractice.runtimeconfig.json
+/Users/mac/Desktop/CollectionPractice/bin/Debug/netcoreapp2.0/CollectionPractice.runtimeconfig.dev.json
+/Users/mac/Desktop/CollectionPractice/bin/Debug/netcoreapp2.0/CollectionPractice.dll
+/Users/mac/Desktop/CollectionPractice/bin/Debug/netcoreapp2.0/CollectionPractice.pdb
+/Users/mac/Desktop/CollectionPractice/obj/Debug/netcoreapp2.0/CollectionPractice.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/CollectionPractice/obj/Debug/netcoreapp2.0/CollectionPractice.AssemblyInfoInputs.cache
+/Users/mac/Desktop/CollectionPractice/obj/Debug/netcoreapp2.0/CollectionPractice.AssemblyInfo.cs
+/Users/mac/Desktop/CollectionPractice/obj/Debug/netcoreapp2.0/CollectionPractice.dll
+/Users/mac/Desktop/CollectionPractice/obj/Debug/netcoreapp2.0/CollectionPractice.pdb

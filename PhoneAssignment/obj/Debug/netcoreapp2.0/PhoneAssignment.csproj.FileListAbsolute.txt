@@ -1,0 +1,10 @@
+/Users/mac/Desktop/PhoneAssignment/obj/Debug/netcoreapp2.0/PhoneAssignment.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/PhoneAssignment/obj/Debug/netcoreapp2.0/PhoneAssignment.AssemblyInfoInputs.cache
+/Users/mac/Desktop/PhoneAssignment/obj/Debug/netcoreapp2.0/PhoneAssignment.AssemblyInfo.cs
+/Users/mac/Desktop/PhoneAssignment/bin/Debug/netcoreapp2.0/PhoneAssignment.deps.json
+/Users/mac/Desktop/PhoneAssignment/bin/Debug/netcoreapp2.0/PhoneAssignment.runtimeconfig.json
+/Users/mac/Desktop/PhoneAssignment/bin/Debug/netcoreapp2.0/PhoneAssignment.runtimeconfig.dev.json
+/Users/mac/Desktop/PhoneAssignment/bin/Debug/netcoreapp2.0/PhoneAssignment.dll
+/Users/mac/Desktop/PhoneAssignment/bin/Debug/netcoreapp2.0/PhoneAssignment.pdb
+/Users/mac/Desktop/PhoneAssignment/obj/Debug/netcoreapp2.0/PhoneAssignment.dll
+/Users/mac/Desktop/PhoneAssignment/obj/Debug/netcoreapp2.0/PhoneAssignment.pdb

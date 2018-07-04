@@ -1,0 +1,10 @@
+/Users/mac/Desktop/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.AssemblyInfoInputs.cache
+/Users/mac/Desktop/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.AssemblyInfo.cs
+/Users/mac/Desktop/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.deps.json
+/Users/mac/Desktop/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.runtimeconfig.json
+/Users/mac/Desktop/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.runtimeconfig.dev.json
+/Users/mac/Desktop/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.dll
+/Users/mac/Desktop/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.pdb
+/Users/mac/Desktop/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.dll
+/Users/mac/Desktop/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.pdb
