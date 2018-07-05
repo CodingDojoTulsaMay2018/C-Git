@@ -1,0 +1,11 @@
+/Users/mac/Desktop/DoubleLink/obj/Debug/netcoreapp2.0/DoubleLink.csprojResolveAssemblyReference.cache
+/Users/mac/Desktop/DoubleLink/obj/Debug/netcoreapp2.0/DoubleLink.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/DoubleLink/obj/Debug/netcoreapp2.0/DoubleLink.AssemblyInfoInputs.cache
+/Users/mac/Desktop/DoubleLink/obj/Debug/netcoreapp2.0/DoubleLink.AssemblyInfo.cs
+/Users/mac/Desktop/DoubleLink/bin/Debug/netcoreapp2.0/DoubleLink.deps.json
+/Users/mac/Desktop/DoubleLink/bin/Debug/netcoreapp2.0/DoubleLink.runtimeconfig.json
+/Users/mac/Desktop/DoubleLink/bin/Debug/netcoreapp2.0/DoubleLink.runtimeconfig.dev.json
+/Users/mac/Desktop/DoubleLink/bin/Debug/netcoreapp2.0/DoubleLink.dll
+/Users/mac/Desktop/DoubleLink/bin/Debug/netcoreapp2.0/DoubleLink.pdb
+/Users/mac/Desktop/DoubleLink/obj/Debug/netcoreapp2.0/DoubleLink.dll
+/Users/mac/Desktop/DoubleLink/obj/Debug/netcoreapp2.0/DoubleLink.pdb

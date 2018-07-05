@@ -1,0 +1,11 @@
+/Users/mac/Desktop/SinglyLinkedLists/bin/Debug/netcoreapp2.0/SinglyLinkedLists.deps.json
+/Users/mac/Desktop/SinglyLinkedLists/bin/Debug/netcoreapp2.0/SinglyLinkedLists.runtimeconfig.json
+/Users/mac/Desktop/SinglyLinkedLists/bin/Debug/netcoreapp2.0/SinglyLinkedLists.runtimeconfig.dev.json
+/Users/mac/Desktop/SinglyLinkedLists/bin/Debug/netcoreapp2.0/SinglyLinkedLists.dll
+/Users/mac/Desktop/SinglyLinkedLists/bin/Debug/netcoreapp2.0/SinglyLinkedLists.pdb
+/Users/mac/Desktop/SinglyLinkedLists/obj/Debug/netcoreapp2.0/SinglyLinkedLists.csprojResolveAssemblyReference.cache
+/Users/mac/Desktop/SinglyLinkedLists/obj/Debug/netcoreapp2.0/SinglyLinkedLists.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/SinglyLinkedLists/obj/Debug/netcoreapp2.0/SinglyLinkedLists.AssemblyInfoInputs.cache
+/Users/mac/Desktop/SinglyLinkedLists/obj/Debug/netcoreapp2.0/SinglyLinkedLists.AssemblyInfo.cs
+/Users/mac/Desktop/SinglyLinkedLists/obj/Debug/netcoreapp2.0/SinglyLinkedLists.dll
+/Users/mac/Desktop/SinglyLinkedLists/obj/Debug/netcoreapp2.0/SinglyLinkedLists.pdb

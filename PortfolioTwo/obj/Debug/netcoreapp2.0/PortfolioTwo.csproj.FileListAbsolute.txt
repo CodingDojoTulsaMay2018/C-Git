@@ -1,0 +1,11 @@
+/Users/mac/Desktop/PortfolioTwo/bin/Debug/netcoreapp2.0/PortfolioTwo.deps.json
+/Users/mac/Desktop/PortfolioTwo/bin/Debug/netcoreapp2.0/PortfolioTwo.runtimeconfig.json
+/Users/mac/Desktop/PortfolioTwo/bin/Debug/netcoreapp2.0/PortfolioTwo.runtimeconfig.dev.json
+/Users/mac/Desktop/PortfolioTwo/bin/Debug/netcoreapp2.0/PortfolioTwo.dll
+/Users/mac/Desktop/PortfolioTwo/bin/Debug/netcoreapp2.0/PortfolioTwo.pdb
+/Users/mac/Desktop/PortfolioTwo/obj/Debug/netcoreapp2.0/PortfolioTwo.csprojResolveAssemblyReference.cache
+/Users/mac/Desktop/PortfolioTwo/obj/Debug/netcoreapp2.0/PortfolioTwo.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/PortfolioTwo/obj/Debug/netcoreapp2.0/PortfolioTwo.AssemblyInfoInputs.cache
+/Users/mac/Desktop/PortfolioTwo/obj/Debug/netcoreapp2.0/PortfolioTwo.AssemblyInfo.cs
+/Users/mac/Desktop/PortfolioTwo/obj/Debug/netcoreapp2.0/PortfolioTwo.dll
+/Users/mac/Desktop/PortfolioTwo/obj/Debug/netcoreapp2.0/PortfolioTwo.pdb

@@ -1,0 +1,11 @@
+/Users/mac/Desktop/FirstWebApp/bin/Debug/netcoreapp2.0/FirstWebApp.deps.json
+/Users/mac/Desktop/FirstWebApp/bin/Debug/netcoreapp2.0/FirstWebApp.runtimeconfig.json
+/Users/mac/Desktop/FirstWebApp/bin/Debug/netcoreapp2.0/FirstWebApp.runtimeconfig.dev.json
+/Users/mac/Desktop/FirstWebApp/bin/Debug/netcoreapp2.0/FirstWebApp.dll
+/Users/mac/Desktop/FirstWebApp/bin/Debug/netcoreapp2.0/FirstWebApp.pdb
+/Users/mac/Desktop/FirstWebApp/obj/Debug/netcoreapp2.0/FirstWebApp.csprojResolveAssemblyReference.cache
+/Users/mac/Desktop/FirstWebApp/obj/Debug/netcoreapp2.0/FirstWebApp.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/FirstWebApp/obj/Debug/netcoreapp2.0/FirstWebApp.AssemblyInfoInputs.cache
+/Users/mac/Desktop/FirstWebApp/obj/Debug/netcoreapp2.0/FirstWebApp.AssemblyInfo.cs
+/Users/mac/Desktop/FirstWebApp/obj/Debug/netcoreapp2.0/FirstWebApp.dll
+/Users/mac/Desktop/FirstWebApp/obj/Debug/netcoreapp2.0/FirstWebApp.pdb
