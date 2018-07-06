@@ -1,0 +1,10 @@
+/Users/mac/Desktop/DateTime/bin/Debug/netcoreapp2.0/DateTime.deps.json
+/Users/mac/Desktop/DateTime/bin/Debug/netcoreapp2.0/DateTime.runtimeconfig.json
+/Users/mac/Desktop/DateTime/bin/Debug/netcoreapp2.0/DateTime.runtimeconfig.dev.json
+/Users/mac/Desktop/DateTime/bin/Debug/netcoreapp2.0/DateTime.dll
+/Users/mac/Desktop/DateTime/bin/Debug/netcoreapp2.0/DateTime.pdb
+/Users/mac/Desktop/DateTime/obj/Debug/netcoreapp2.0/DateTime.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/DateTime/obj/Debug/netcoreapp2.0/DateTime.AssemblyInfoInputs.cache
+/Users/mac/Desktop/DateTime/obj/Debug/netcoreapp2.0/DateTime.AssemblyInfo.cs
+/Users/mac/Desktop/DateTime/obj/Debug/netcoreapp2.0/DateTime.dll
+/Users/mac/Desktop/DateTime/obj/Debug/netcoreapp2.0/DateTime.pdb

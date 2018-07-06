@@ -1,0 +1,10 @@
+/Users/mac/Desktop/RazorFun/bin/Debug/netcoreapp2.0/RazorFun.deps.json
+/Users/mac/Desktop/RazorFun/bin/Debug/netcoreapp2.0/RazorFun.runtimeconfig.json
+/Users/mac/Desktop/RazorFun/bin/Debug/netcoreapp2.0/RazorFun.runtimeconfig.dev.json
+/Users/mac/Desktop/RazorFun/bin/Debug/netcoreapp2.0/RazorFun.dll
+/Users/mac/Desktop/RazorFun/bin/Debug/netcoreapp2.0/RazorFun.pdb
+/Users/mac/Desktop/RazorFun/obj/Debug/netcoreapp2.0/RazorFun.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/RazorFun/obj/Debug/netcoreapp2.0/RazorFun.AssemblyInfoInputs.cache
+/Users/mac/Desktop/RazorFun/obj/Debug/netcoreapp2.0/RazorFun.AssemblyInfo.cs
+/Users/mac/Desktop/RazorFun/obj/Debug/netcoreapp2.0/RazorFun.dll
+/Users/mac/Desktop/RazorFun/obj/Debug/netcoreapp2.0/RazorFun.pdb
