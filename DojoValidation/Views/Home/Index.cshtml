@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "DojoValidation"; //Title should be name of page or porject
+}
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+</head>  
+<body>
+    @model Ninja
+<div class="container">
+        <div class="forms" >
+
+            <form asp-action="Create" asp-controller="Home" method="post">
+                <div class="row">
+                <span asp-validation-for="Name"></span>
+                <label asp-for="Name"></label>
+                <input asp-for="Name">
+                </div>
+
+                <div class="row">
+                <span asp-validation-for="Location"></span>
+                <label asp-for="Location"></label>
+                <input asp-for="Location">
+                </div>
+                
+                <div class="row">
+                <span asp-validation-for="Language"></span>
+                <label asp-for="Language"></label>
+                <input asp-for="Language">
+                </div>
+
+                <div class="row">
+                <span asp-validation-for="Comment"></span>
+                <label asp-for="Comment"></label>
+                <input asp-for="Comment">
+                </div>
+                <button>Submit</button>
+
+            </form>
+
+        </div>
+    </div>
+
+    
+    
+ 
+
+    
+</body>
+</html>

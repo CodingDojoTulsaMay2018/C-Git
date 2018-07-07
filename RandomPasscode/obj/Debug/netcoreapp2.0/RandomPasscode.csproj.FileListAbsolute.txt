@@ -1,0 +1,10 @@
+/Users/mac/Desktop/RandomPasscode/bin/Debug/netcoreapp2.0/RandomPasscode.deps.json
+/Users/mac/Desktop/RandomPasscode/bin/Debug/netcoreapp2.0/RandomPasscode.runtimeconfig.json
+/Users/mac/Desktop/RandomPasscode/bin/Debug/netcoreapp2.0/RandomPasscode.runtimeconfig.dev.json
+/Users/mac/Desktop/RandomPasscode/bin/Debug/netcoreapp2.0/RandomPasscode.dll
+/Users/mac/Desktop/RandomPasscode/bin/Debug/netcoreapp2.0/RandomPasscode.pdb
+/Users/mac/Desktop/RandomPasscode/obj/Debug/netcoreapp2.0/RandomPasscode.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/RandomPasscode/obj/Debug/netcoreapp2.0/RandomPasscode.AssemblyInfoInputs.cache
+/Users/mac/Desktop/RandomPasscode/obj/Debug/netcoreapp2.0/RandomPasscode.AssemblyInfo.cs
+/Users/mac/Desktop/RandomPasscode/obj/Debug/netcoreapp2.0/RandomPasscode.dll
+/Users/mac/Desktop/RandomPasscode/obj/Debug/netcoreapp2.0/RandomPasscode.pdb

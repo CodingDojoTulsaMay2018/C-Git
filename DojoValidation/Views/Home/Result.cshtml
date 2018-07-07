@@ -1,0 +1,20 @@
+@{
+    ViewData["Title"] = "Result"; //Title should be name of page
+}
+
+@model DojoValidation.Models.Ninja
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+<body>
+   <h5>Submitted Info</h5><br>
+    <p>Name:  @Model.Name</p><br>
+    <p>Dojo Location:  @Model.Location</p><br>
+    <p>Language:  @Model.Language</p><br>
+    <p>Comment:  @Model.Comment</p><br>
+    
+</body>
+</html>

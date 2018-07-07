@@ -1,0 +1,10 @@
+/Users/mac/Desktop/DojoValidation/bin/Debug/netcoreapp2.0/DojoValidation.deps.json
+/Users/mac/Desktop/DojoValidation/bin/Debug/netcoreapp2.0/DojoValidation.runtimeconfig.json
+/Users/mac/Desktop/DojoValidation/bin/Debug/netcoreapp2.0/DojoValidation.runtimeconfig.dev.json
+/Users/mac/Desktop/DojoValidation/bin/Debug/netcoreapp2.0/DojoValidation.dll
+/Users/mac/Desktop/DojoValidation/bin/Debug/netcoreapp2.0/DojoValidation.pdb
+/Users/mac/Desktop/DojoValidation/obj/Debug/netcoreapp2.0/DojoValidation.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/DojoValidation/obj/Debug/netcoreapp2.0/DojoValidation.AssemblyInfoInputs.cache
+/Users/mac/Desktop/DojoValidation/obj/Debug/netcoreapp2.0/DojoValidation.AssemblyInfo.cs
+/Users/mac/Desktop/DojoValidation/obj/Debug/netcoreapp2.0/DojoValidation.dll
+/Users/mac/Desktop/DojoValidation/obj/Debug/netcoreapp2.0/DojoValidation.pdb

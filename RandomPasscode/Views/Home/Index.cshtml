@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+</head> 
+
+<body>
+    <div class="container">
+
+@TempData["TempModel"]<br>
+@TempData["passcode"]
+
+
+        <div class="forms" >
+            <form asp-action="Generate">
+                <h4>Random Passcode (passcode #1)</h4>
+                <div>
+                    <h2>Random text here</h2>
+                </div>
+
+                <button>Geneate</button>
+            </form>
+
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+</body>
