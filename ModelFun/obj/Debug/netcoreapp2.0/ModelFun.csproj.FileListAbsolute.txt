@@ -1,0 +1,11 @@
+/Users/mac/Desktop/ModelFun/bin/Debug/netcoreapp2.0/ModelFun.deps.json
+/Users/mac/Desktop/ModelFun/bin/Debug/netcoreapp2.0/ModelFun.runtimeconfig.json
+/Users/mac/Desktop/ModelFun/bin/Debug/netcoreapp2.0/ModelFun.runtimeconfig.dev.json
+/Users/mac/Desktop/ModelFun/bin/Debug/netcoreapp2.0/ModelFun.dll
+/Users/mac/Desktop/ModelFun/bin/Debug/netcoreapp2.0/ModelFun.pdb
+/Users/mac/Desktop/ModelFun/obj/Debug/netcoreapp2.0/ModelFun.csprojResolveAssemblyReference.cache
+/Users/mac/Desktop/ModelFun/obj/Debug/netcoreapp2.0/ModelFun.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/ModelFun/obj/Debug/netcoreapp2.0/ModelFun.AssemblyInfoInputs.cache
+/Users/mac/Desktop/ModelFun/obj/Debug/netcoreapp2.0/ModelFun.AssemblyInfo.cs
+/Users/mac/Desktop/ModelFun/obj/Debug/netcoreapp2.0/ModelFun.dll
+/Users/mac/Desktop/ModelFun/obj/Debug/netcoreapp2.0/ModelFun.pdb

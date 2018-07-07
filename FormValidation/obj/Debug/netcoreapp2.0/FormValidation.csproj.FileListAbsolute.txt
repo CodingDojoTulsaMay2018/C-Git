@@ -1,0 +1,10 @@
+/Users/mac/Desktop/FormValidation/bin/Debug/netcoreapp2.0/FormValidation.deps.json
+/Users/mac/Desktop/FormValidation/bin/Debug/netcoreapp2.0/FormValidation.runtimeconfig.json
+/Users/mac/Desktop/FormValidation/bin/Debug/netcoreapp2.0/FormValidation.runtimeconfig.dev.json
+/Users/mac/Desktop/FormValidation/bin/Debug/netcoreapp2.0/FormValidation.dll
+/Users/mac/Desktop/FormValidation/bin/Debug/netcoreapp2.0/FormValidation.pdb
+/Users/mac/Desktop/FormValidation/obj/Debug/netcoreapp2.0/FormValidation.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/FormValidation/obj/Debug/netcoreapp2.0/FormValidation.AssemblyInfoInputs.cache
+/Users/mac/Desktop/FormValidation/obj/Debug/netcoreapp2.0/FormValidation.AssemblyInfo.cs
+/Users/mac/Desktop/FormValidation/obj/Debug/netcoreapp2.0/FormValidation.dll
+/Users/mac/Desktop/FormValidation/obj/Debug/netcoreapp2.0/FormValidation.pdb

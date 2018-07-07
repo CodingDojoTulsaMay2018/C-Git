@@ -1,0 +1,10 @@
+/Users/mac/Desktop/Survey2/bin/Debug/netcoreapp2.0/Survey2.deps.json
+/Users/mac/Desktop/Survey2/bin/Debug/netcoreapp2.0/Survey2.runtimeconfig.json
+/Users/mac/Desktop/Survey2/bin/Debug/netcoreapp2.0/Survey2.runtimeconfig.dev.json
+/Users/mac/Desktop/Survey2/bin/Debug/netcoreapp2.0/Survey2.dll
+/Users/mac/Desktop/Survey2/bin/Debug/netcoreapp2.0/Survey2.pdb
+/Users/mac/Desktop/Survey2/obj/Debug/netcoreapp2.0/Survey2.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Survey2/obj/Debug/netcoreapp2.0/Survey2.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Survey2/obj/Debug/netcoreapp2.0/Survey2.AssemblyInfo.cs
+/Users/mac/Desktop/Survey2/obj/Debug/netcoreapp2.0/Survey2.dll
+/Users/mac/Desktop/Survey2/obj/Debug/netcoreapp2.0/Survey2.pdb
