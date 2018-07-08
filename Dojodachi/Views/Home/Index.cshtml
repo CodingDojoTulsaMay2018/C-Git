@@ -1,0 +1,90 @@
+﻿@{
+    ViewData["Title"] = "Dojodachi";
+}
+@model Dojodachi.Models.Dachi
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+</head>
+<body>
+
+    <div class="container">
+
+        <div class="mains">
+            <div class="row">
+                <div class="col">Fullness: @Model.Fullness</div>
+                <div class="col">Happiness:@Model.Happiness</div>
+                <div class="col">Meals:@Model.Meals </div>
+                <div class="col">Energy:@Model.Energy </div>
+            </div>
+
+
+        @if ((Model.Happiness > 19) && (Model.Fullness > 22) && (Model.Energy >49))
+        {
+           <div class="centerbox">
+            
+            
+                <div ><img style="width:325px; margin-left:115px;margin-top:24px;" src="~/images/Pikachu_win.png" alt=""></div>           
+                <div class="status">@Model.Status</div>
+
+
+            </div><!--end centerbox-->
+
+            <div class="col"><a asp-area="" asp-controller="Home" asp-action="Restart" class="btn btn-success" role="button">Restart</a></div>
+        }
+
+
+        else if((Model.Happiness > 0) && (Model.Fullness > 0))
+        {
+
+            <div class="centerbox">
+            
+            
+                <div ><img style="width:325px; margin-left:115px;margin-top:24px;" src="~/images/Pikachu_sitting.png" alt=""></div>           
+                <div class="status">@Model.Status</div>
+
+
+            </div><!--end centerbox-->
+
+
+            <div class="row">
+                <div class="col"><a asp-area="" asp-controller="Home" asp-action="Feed" class="btn btn-success" role="button">Feed</a></div>
+                <div class="col"><a asp-area="" asp-controller="Home" asp-action="Play" class="btn btn-primary" role="button">Play</a></div>
+                <div class="col"><a asp-area="" asp-controller="Home" asp-action="Work" class="btn btn-danger" role="button">Work</a></div>
+                <div class="col"><a asp-area="" asp-controller="Home" asp-action="Sleep" class="btn btn-warning" role="button">Sleep</a></div>             
+            </div><!--end button row-->
+        }
+        else
+        {
+            <div class="centerbox">
+                        
+                <div><img style="width:325px; margin-left:115px;margin-top:24px;" src="~/images/Pikachu_sad.png" alt="">
+                </div>           
+                
+            </div>
+
+            <div class="col"><a asp-area="" asp-controller="Home" asp-action="Restart" class="btn btn-success" role="button">Restart</a></div>
+        }
+
+
+
+
+        
+     
+
+
+
+
+
+
+        </div>  <!--end mains-->
+    </div> <!--end container-->
+    
+</body>
+</html>
+
+

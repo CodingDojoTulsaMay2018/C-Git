@@ -1,0 +1,10 @@
+/Users/mac/Desktop/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.deps.json
+/Users/mac/Desktop/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.runtimeconfig.json
+/Users/mac/Desktop/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.runtimeconfig.dev.json
+/Users/mac/Desktop/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.dll
+/Users/mac/Desktop/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.pdb
+/Users/mac/Desktop/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.AssemblyInfo.cs
+/Users/mac/Desktop/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.dll
+/Users/mac/Desktop/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.pdb
