@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model Users
+    <div class="container">
+        <form asp-action="quotes" asp-controller="Home" method="post" style="padding-top:20px;">
+            <div class="row">
+            <span asp-validation-for="Name"></span>
+            <label asp-for="Name"></label>
+            <input asp-for="Name">
+            </div><br>
+
+            <div class="row">
+            <span asp-validation-for="Quote"></span>
+            <label asp-for="Quote"></label>
+            <textarea rows = "5" cols="30" asp-for="Quote"></textarea>          
+            </div><br>    
+
+            <div class="row">  
+                <div class="col">
+                    <button class="btn btn-primary">Add my quote!</button>
+                </div>
+                <div class="col">
+                    <a href="quotes" class="btn btn-info" role="button">Skip to quotes!</a>                   
+                </div>
+            </div>
+
+            </form>
+    </div>
