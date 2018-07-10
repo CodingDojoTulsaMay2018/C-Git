@@ -1,0 +1,10 @@
+/Users/mac/Desktop/LostInWoods/obj/Debug/netcoreapp2.0/LostInWoods.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/LostInWoods/obj/Debug/netcoreapp2.0/LostInWoods.AssemblyInfoInputs.cache
+/Users/mac/Desktop/LostInWoods/obj/Debug/netcoreapp2.0/LostInWoods.AssemblyInfo.cs
+/Users/mac/Desktop/LostInWoods/bin/Debug/netcoreapp2.0/LostInWoods.deps.json
+/Users/mac/Desktop/LostInWoods/bin/Debug/netcoreapp2.0/LostInWoods.runtimeconfig.json
+/Users/mac/Desktop/LostInWoods/bin/Debug/netcoreapp2.0/LostInWoods.runtimeconfig.dev.json
+/Users/mac/Desktop/LostInWoods/bin/Debug/netcoreapp2.0/LostInWoods.dll
+/Users/mac/Desktop/LostInWoods/bin/Debug/netcoreapp2.0/LostInWoods.pdb
+/Users/mac/Desktop/LostInWoods/obj/Debug/netcoreapp2.0/LostInWoods.dll
+/Users/mac/Desktop/LostInWoods/obj/Debug/netcoreapp2.0/LostInWoods.pdb

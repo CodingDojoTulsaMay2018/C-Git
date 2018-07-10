@@ -1,0 +1,63 @@
+ADDPAGE
+@model Trails
+<div class="container">
+        <div class="forms" >
+            <table>
+            <form asp-action="CreateRecord" asp-controller="Home" method="post">
+                <tr>                    
+                    
+                    <td><label asp-for="Trail_Name"></label></td>
+                    <td><input asp-for="Trail_Name"></td>   
+                    <td><span asp-validation-for="Trail_Name"></span></td>                
+                </tr>
+                
+                <tr>
+                    
+                    <td><label asp-for="Description"></label></td>
+                    <td><textarea cols="30" rows="5" asp-for="Description"></textarea></td>
+                    <td><span asp-validation-for="Description"></span></td>
+               </tr>
+               
+                <tr>
+                    
+                    <td><label asp-for="Trail_Length"></label></td>
+                    <td><input asp-for="Trail_Length"></td>
+                    <td><span asp-validation-for="Trail_Length"></span></td>
+               </tr>
+
+                <tr>
+                    
+                    <td><label asp-for="Elevation_Change"></label></td>
+                    <td><input asp-for="Elevation_Change"></td>
+                    <td><span asp-validation-for="Elevation_Change"></span></td>
+                </tr>
+
+                <tr>
+                    
+                    <td><label asp-for="Latitude"></label></td>
+                    <td><input asp-for="Latitude"></td>
+                    <td><span asp-validation-for="Latitude"></span></td>
+                </tr>
+                
+                <tr>
+                    
+                    <td><label asp-for="Longitude"></label></td>
+                    <td><input asp-for="Longitude"></td>
+                    <td><span asp-validation-for="Longitude"></span></td>
+                </tr>
+                
+</table>
+                <button class="btn btn-success">Create Record</button>
+
+            </form>
+
+        </div>
+    </div>
+    <style>
+
+    table{
+        border-collapse: separate;
+        border-spacing: 15px;
+    }
+    
+    </style>
