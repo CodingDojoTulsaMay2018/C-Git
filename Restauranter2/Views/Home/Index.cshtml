@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+ 
+
+
+<div class="container">
+        <div class="forms" >
+            <table>
+            <form asp-action="CreateRecord" asp-controller="Home" method="post">
+                <tr>                    
+                    
+                    <td><label asp-for="Name">Name:</label></td>
+                    <td><input asp-for="Name"></td>   
+                    <td><span asp-validation-for="Name"></span></td>   
+
+                    <td><label asp-for="Stars">Stars:</label>
+                    <select name='Stars'>
+                        <option value='1'>1</option>
+                        <option value='2'>2</option>
+                        <option value='3'>3</option>
+                        <option value='4'>4</option>
+                        <option value='5'>5</option>
+                    </select>  
+                    </td>
+
+
+
+                </tr>
+
+                <tr>
+                    
+                    <td><label asp-for="Restaurant">Restaurant:</label></td>
+                    <td><input asp-for="Restaurant"></td>
+                    <td><span asp-validation-for="Restaurant"></span></td>
+               </tr>
+
+               
+                <tr>
+                    
+                    <td><label asp-for="Review">Review:</label></td>
+                    <td><textarea cols="30" rows="5" asp-for="Review"></textarea></td>
+                    <td><span asp-validation-for="Review"></span></td>
+               </tr>
+
+                <tr>
+                    <td><label asp-for="VisitDate">Date:</label></td>
+                    <td><input id="datefield" type="date" name="VisitDate" min='1899-01-01' max=''></td>
+                    <td><span asp-validation-for="VisitDate"></span></td>
+                    
+               </tr>
+                
+                
+</table>
+                <button class="btn btn-success">Submit</button>
+
+            </form>
+
+        </div>
+    </div>
+    <style>
+
+    table{
+        border-collapse: separate;
+        border-spacing: 15px;
+    }
+    
+    </style>
