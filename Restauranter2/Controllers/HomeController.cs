@@ -17,9 +17,9 @@ namespace Restauranter2.Controllers
         }
         public IActionResult Index()
         {
-            List<Reviewer> ReturnedValues = _context.reviewer.Where(r => r.Stars < 17).ToList();
-            //List<Person> person is the model name  _context.reviewer reviewer is the table name matches
-            ViewBag.allUsers = ReturnedValues;
+            // List<Reviewer> ReturnedValues = _context.reviewer.Where(r => r.Stars < 17).ToList();
+            // //List<Reviwer> Reviwer is the model name  _context.reviewer reviewer is the table name matches
+            // ViewBag.allUsers = ReturnedValues;
             
             return View();
         }
@@ -41,9 +41,7 @@ namespace Restauranter2.Controllers
             {
                 return View("Index",reviewer);
             }
-            // var today = DateTime.Today;
-            // string date = today.ToString("MMMM d, yyyy");
-            // System.Console.WriteLine(date);
+           
 
             
         }
@@ -52,7 +50,7 @@ namespace Restauranter2.Controllers
         {
             List<Reviewer> ReturnedValues = _context.reviewer.ToList();
             
-            //List<Person> person is the model name  _context.reviewer reviewer is the table name matches
+            //List<Reviewer> Reviewer is the model name  _context.reviewer reviewer is the table name matches
             ViewBag.allReviews = ReturnedValues.OrderByDescending(a => a.VisitDate);
 
             return View();
