@@ -1,0 +1,11 @@
+/Users/mac/Desktop/Restauranter/bin/Debug/netcoreapp2.0/Restauranter.deps.json
+/Users/mac/Desktop/Restauranter/bin/Debug/netcoreapp2.0/Restauranter.runtimeconfig.json
+/Users/mac/Desktop/Restauranter/bin/Debug/netcoreapp2.0/Restauranter.runtimeconfig.dev.json
+/Users/mac/Desktop/Restauranter/bin/Debug/netcoreapp2.0/Restauranter.dll
+/Users/mac/Desktop/Restauranter/bin/Debug/netcoreapp2.0/Restauranter.pdb
+/Users/mac/Desktop/Restauranter/obj/Debug/netcoreapp2.0/Restauranter.csprojResolveAssemblyReference.cache
+/Users/mac/Desktop/Restauranter/obj/Debug/netcoreapp2.0/Restauranter.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Restauranter/obj/Debug/netcoreapp2.0/Restauranter.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Restauranter/obj/Debug/netcoreapp2.0/Restauranter.AssemblyInfo.cs
+/Users/mac/Desktop/Restauranter/obj/Debug/netcoreapp2.0/Restauranter.dll
+/Users/mac/Desktop/Restauranter/obj/Debug/netcoreapp2.0/Restauranter.pdb
