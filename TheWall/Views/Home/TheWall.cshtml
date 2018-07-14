@@ -1,0 +1,68 @@
+
+<div class="container">
+
+@model ViewModel
+
+    <nav class="navbar navbar-default navbar-static-top">
+        <div class="container">
+            <a href="/logout"  >Logout</a>
+        </div>
+    </nav>
+    <div class="messageWall">         
+           <h3>Welcome,@ViewBag.CurrentUser.First_Name </h3>
+            Post a message
+            <form class='form-control' asp-action="addMessage" asp-controller="Home" method="post">
+
+                    <span asp-validation-for="Messages.Content"></span>
+                    <!-- <label asp-for="Messages.Content"></label> -->
+                    <textarea rows= '2' cols='73' name="content" asp-for="Messages.Content"> </textarea>                       
+                    <button  class="btn btn-primary" type="submit">Post a message</button>
+                    
+            </form>
+            @foreach(var message in ViewBag.Messages)
+            {
+                <div class="messageBox">
+                    <p>@message.Creator.First_Name -- @message.Created_At</p>
+                    <p>@message.Content</p>                    
+                    
+                    
+                    @if(message.Comments != null){
+                        foreach(var comment in message.Comments){
+                            <div class="commentbox">
+                                <p>@comment.Creator.First_Name -- @comment.Created_At</p>
+                                <p>@comment.Content</p>
+                            </div>
+                            
+                        }
+                    }
+
+                     <form class='form-control' asp-action="addComment" asp-controller="Home" method="post">
+                       <span asp-validation-for="Comments.Content"></span>
+                       <input type="hidden" name="messageId" value="@message.Id">
+                        <!-- <label asp-for="Messages.Content"></label> -->
+                        <textarea rows= '2' cols='73' name="content" asp-for="Comments.Content"> </textarea>                       
+                        <button  class="btn btn-primary" type="submit">Post a Comment</button>
+                    </form>
+                    
+                </div>
+            }
+
+            
+    </div> <!-- message wall end -->
+
+      
+</div><!-- container end -->
+<style>
+    .messageBox
+    {
+        border: solid gray 1px;
+    }
+    .commentbox
+    {
+        margin-left: 40px;
+        margin-bottom: 10px;
+        border: solid rgb(216, 215, 215) 1px;
+
+    }
+
+</style>

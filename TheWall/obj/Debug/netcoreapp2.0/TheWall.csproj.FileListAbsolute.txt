@@ -1,0 +1,11 @@
+/Users/mac/Desktop/TheWall/bin/Debug/netcoreapp2.0/TheWall.deps.json
+/Users/mac/Desktop/TheWall/bin/Debug/netcoreapp2.0/TheWall.runtimeconfig.json
+/Users/mac/Desktop/TheWall/bin/Debug/netcoreapp2.0/TheWall.runtimeconfig.dev.json
+/Users/mac/Desktop/TheWall/bin/Debug/netcoreapp2.0/TheWall.dll
+/Users/mac/Desktop/TheWall/bin/Debug/netcoreapp2.0/TheWall.pdb
+/Users/mac/Desktop/TheWall/obj/Debug/netcoreapp2.0/TheWall.csprojResolveAssemblyReference.cache
+/Users/mac/Desktop/TheWall/obj/Debug/netcoreapp2.0/TheWall.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/TheWall/obj/Debug/netcoreapp2.0/TheWall.AssemblyInfoInputs.cache
+/Users/mac/Desktop/TheWall/obj/Debug/netcoreapp2.0/TheWall.AssemblyInfo.cs
+/Users/mac/Desktop/TheWall/obj/Debug/netcoreapp2.0/TheWall.dll
+/Users/mac/Desktop/TheWall/obj/Debug/netcoreapp2.0/TheWall.pdb
