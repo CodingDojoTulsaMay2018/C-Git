@@ -1,0 +1,73 @@
+@model ViewModel
+@using System.Linq
+
+<div class="container">
+    <div>
+        <nav class="navbar navbar-default navbar-static-top">
+            
+                <a href="/logout"  >Logout</a>
+            
+        </nav>
+    </div>
+
+    
+
+    
+    <H3>Welcome to the Wedding Planner @ViewBag.CurrentUser.First_Name</H3>
+    @foreach(var wedding in ViewBag.WeddingList)
+    {
+        <div class="weddingLine">
+           
+            <a href="WeddingDetails/@wedding.Id" > @wedding.Groom & @wedding.Bride </a><br>
+         
+            <span>Guest Count: @wedding.GuestList.Count</span><br>
+            <span>Wedding Date: @wedding.Wedding_Date.ToString("MMMM dd yyyy")</span><br>
+           @if(ViewBag.CurrentUser.Id == wedding.Creator.Id)
+                {
+            
+                <Span><a href="DELETE/@wedding.Id" > Delete</a></Span><br>
+                }
+            else
+            {
+                if(wedding.GuestList.Count == 0)               
+                {
+                    <Span><a href="RSVP/@wedding.Id" > RSVP</a></Span>
+                }
+                else
+                {
+                    int Count = 0;
+                    @foreach(var guest in wedding.GuestList)
+                    {
+                            if(guest.UserId == ViewBag.CurrentUser.Id)
+                            {
+                                Count =1;
+                            
+                            }
+                           
+                    }
+                    if (Count ==1){
+                        <Span><a href="UnRSVP/@wedding.Id" > UnRSVP</a></Span>
+                    }
+                    else {
+                        <Span><a href="RSVP/@wedding.Id" > RSVP</a></Span>
+                    }
+                }
+               
+            }
+
+          </div>           
+    }  
+<a href="/PlanWedding" class="btn btn-info" role="button">New Wedding</a>
+        
+ 
+    
+</div><!-- end container -->
+
+<style>
+    .weddingLine{
+        border: solid black 1px;
+    }
+</style>
+
+
+               

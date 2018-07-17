@@ -1,0 +1,60 @@
+@model ViewModel
+
+
+<div class="container">
+
+
+    <nav class="navbar navbar-default navbar-static-top">
+            <div class="container">
+                <a href="/logout"  >Logout</a><br>
+                <a href="/Dashboard"  >Dashboard</a>
+            </div>
+            <h2>Plan Your Wedding</h2>
+    </nav>
+
+
+    
+
+<form asp-action="CreatePlan" asp-controller="Home" method="post"> 
+    <table class="table" style="width:250px;">
+        <thead>
+            <tr>
+                <th scope="col"></th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th></th>
+                <td><label asp-for="Weddings.Groom">Wedder One:</label></td>
+                <td><input asp-for="Weddings.Groom"></td>
+                <td><span asp-validation-for="Weddings.Groom"></span></td>                   
+            </tr>
+
+            <tr>
+                <th></th>
+                <td><label asp-for="Weddings.Bride">Wedder Two:</label></td>
+                <td><input asp-for="Weddings.Bride"></td>
+                <td><span asp-validation-for="Weddings.Bride"></span></td>
+            </tr>
+            <tr>
+                <th></th>
+                <td><label asp-for="Weddings.Wedding_Date">Date:</label></td>
+                <td><input id="datefield" type="date" name="Weddings.Wedding_Date" min='' max=''></td>
+                <td><span asp-validation-for="Weddings.Wedding_Date"></span></td>
+            </tr>
+            <tr>
+                <th></th>
+                <td><label asp-for="Weddings.Address">Address:</label></td>
+                <td><input asp-for="Weddings.Address"></td>
+                <td><span asp-validation-for="Weddings.Address"></span></td>
+            </tr>
+             <tr>
+                <th scope="row"></th>
+                    <td><input value="Create" class="btn btn-primary" type="submit"></td>
+            </tr>
+        </tbody>
+    </table>
+    </form>
+           
+</div>

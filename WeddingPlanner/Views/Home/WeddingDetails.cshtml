@@ -1,0 +1,35 @@
+    @model ViewModel
+    
+    <div class="container">
+    <nav class="navbar navbar-default navbar-static-top">
+            <div class="container">
+                <a href="/logout"  >Logout</a><br>
+                <a href="/Dashboard"  >Dashboard</a>
+            </div>
+            
+    </nav>
+
+
+
+
+
+
+<h2>@ViewBag.Wedding.Bride and @ViewBag.Wedding.Groom 's Wedding</h2><br>
+<h5>Date: @ViewBag.Wedding.Wedding_Date</h5><br>
+<h5>Guests:</h5><br>
+
+
+
+@foreach(var guest in @ViewBag.Wedding.GuestList)
+{
+    <span>@guest.InvitedGuest.First_Name</span><br>
+}
+
+
+
+
+
+
+
+
+</div>
