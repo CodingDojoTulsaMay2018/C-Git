@@ -1,0 +1,10 @@
+/Users/mac/Desktop/BasicOOP/obj/Debug/netcoreapp2.0/BasicOOP.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/BasicOOP/obj/Debug/netcoreapp2.0/BasicOOP.AssemblyInfoInputs.cache
+/Users/mac/Desktop/BasicOOP/obj/Debug/netcoreapp2.0/BasicOOP.AssemblyInfo.cs
+/Users/mac/Desktop/BasicOOP/bin/Debug/netcoreapp2.0/BasicOOP.deps.json
+/Users/mac/Desktop/BasicOOP/bin/Debug/netcoreapp2.0/BasicOOP.runtimeconfig.json
+/Users/mac/Desktop/BasicOOP/bin/Debug/netcoreapp2.0/BasicOOP.runtimeconfig.dev.json
+/Users/mac/Desktop/BasicOOP/bin/Debug/netcoreapp2.0/BasicOOP.dll
+/Users/mac/Desktop/BasicOOP/bin/Debug/netcoreapp2.0/BasicOOP.pdb
+/Users/mac/Desktop/BasicOOP/obj/Debug/netcoreapp2.0/BasicOOP.dll
+/Users/mac/Desktop/BasicOOP/obj/Debug/netcoreapp2.0/BasicOOP.pdb

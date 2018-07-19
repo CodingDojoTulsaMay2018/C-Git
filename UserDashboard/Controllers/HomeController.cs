@@ -196,6 +196,10 @@ namespace UserDashboard.Controllers
                             _context.Update(LoggedUser);
                             _context.SaveChanges();
                         }
+                        if(FormData.editUser.Email == LoggedUser.Email)
+                        {
+                            ModelState.AddModelError("editUser.Email", " ");
+                        }
                         else
                         {
                             ModelState.AddModelError("editUser.Email", "Email already exists.");
