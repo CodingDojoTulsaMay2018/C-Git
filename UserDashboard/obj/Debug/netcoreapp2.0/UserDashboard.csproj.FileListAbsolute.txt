@@ -1,0 +1,11 @@
+/Users/mac/Desktop/UserDashboard/obj/Debug/netcoreapp2.0/UserDashboard.csprojResolveAssemblyReference.cache
+/Users/mac/Desktop/UserDashboard/obj/Debug/netcoreapp2.0/UserDashboard.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/UserDashboard/obj/Debug/netcoreapp2.0/UserDashboard.AssemblyInfoInputs.cache
+/Users/mac/Desktop/UserDashboard/obj/Debug/netcoreapp2.0/UserDashboard.AssemblyInfo.cs
+/Users/mac/Desktop/UserDashboard/bin/Debug/netcoreapp2.0/UserDashboard.deps.json
+/Users/mac/Desktop/UserDashboard/bin/Debug/netcoreapp2.0/UserDashboard.runtimeconfig.json
+/Users/mac/Desktop/UserDashboard/bin/Debug/netcoreapp2.0/UserDashboard.runtimeconfig.dev.json
+/Users/mac/Desktop/UserDashboard/bin/Debug/netcoreapp2.0/UserDashboard.dll
+/Users/mac/Desktop/UserDashboard/bin/Debug/netcoreapp2.0/UserDashboard.pdb
+/Users/mac/Desktop/UserDashboard/obj/Debug/netcoreapp2.0/UserDashboard.dll
+/Users/mac/Desktop/UserDashboard/obj/Debug/netcoreapp2.0/UserDashboard.pdb

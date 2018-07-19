@@ -1,0 +1,31 @@
+@{
+    ViewData["Title"] = "The Wall";
+}
+@model ViewModel
+<nav class="navbar navbar-light bg-light justify-content-between">
+  <a class="nav-link" href="/">Home</a>
+  <a class="nav-link" href="Logout">Logout</a>
+  <a class="nav-link" href="/Dashboard">Dashboard</a>
+</nav>
+
+
+<h5>@ViewBag.UserWall.First_Name @ViewBag.UserWall.Last_Name</h5>  
+<table>
+    <tr>
+        <td>Registered at:</td>
+        <td>@ViewBag.UserWall.Created_At</td>
+    </tr>
+       <tr>
+        <td>User ID:</td>
+        <td>@ViewBag.UserWall.Id</td>
+    </tr>
+       <tr>
+        <td>Email Address:</td>
+        <td>@ViewBag.UserWall.Email</td>
+    </tr>
+       <tr>
+        <td>Description:</td>
+        <td>@ViewBag.UserWall.Description</td>
+    </tr>
+</table>
+

@@ -1,0 +1,89 @@
+@{
+    ViewData["Title"] = "Profile Page";
+}
+@model ViewModel
+<nav class="navbar navbar-light bg-light justify-content-between">
+    <a class="nav-link" href="/">Home</a>
+    <a class="nav-link" href="/Dashboard">Dashboard</a>
+    <a class="nav-link" href="Logout">Logout</a>
+</nav>
+
+<h4>Welcome, @ViewBag.LoggedUser.First_Name</h4>
+
+
+
+<div class="container">
+    <div class="editinfo">
+        <h5>Edit profile</h5>
+        <form asp-action="UserEditInfo" asp-controller="Home" method="post">
+            <div class="form-group">
+                <label for="firstName">First Name</label>
+                <span class=" error" asp-validation-for="editUser.First_Name"></span>
+                <input type="text" class="form-control form-control-sm" asp-for="editUser.First_Name">
+            </div>
+            <div class="form-group">
+                <label for="lastName">Last Name</label>
+                <span class=" error" asp-validation-for="editUser.Last_Name"></span>
+                <input type="text" class="form-control form-control-sm" asp-for="editUser.Last_Name">
+            </div>
+            <div class="form-group">
+                <label for="email">Email address</label>
+                <span class=" error" asp-validation-for="editUser.Email"></span>
+                <input type="text" class="form-control form-control-sm" asp-for="editUser.Email">
+            </div>
+            <button type="submit" class="btn btn-success">Save</button>
+        </form>
+    </div>
+
+
+    <div class="editpassword">
+        <h6>Change Password</h6>
+        <form asp-action="UserEditPassword" asp-controller="Home" method="post">
+            <div class="form-group">
+                <label for="initialPassword">Password</label>
+                <span class=" error" asp-validation-for="editPassword.Password"></span>
+                <input type="password" class="form-control form-control-sm" asp-for="editPassword.Password">
+            </div>
+            <div class="form-group">
+                <label for="confirmPassword">Confirm Password</label>
+                <span class=" error" asp-validation-for="editPassword.ConfirmPassword"></span>
+                <input type="password" class="form-control form-control-sm" asp-for="editPassword.ConfirmPassword">
+            </div>
+            <button type="submit" class="btn btn-success">Update Password</button>
+        </form>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<style>
+    .editinfo{
+        width: 300px;
+        border-bottom: solid rgb(230, 230, 230) 1px;
+        
+    }
+    .editpassword{
+        width: 300px;
+       
+    }
+</style>
