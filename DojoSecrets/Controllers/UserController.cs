@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Identity;
 using System.Linq;
 using DojoSecrets.Models;
 
-namespace BankAccount.Controllers
+namespace DojoSecrets.Controllers
 {
     public class UserController : Controller
     {

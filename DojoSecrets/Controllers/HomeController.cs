@@ -144,6 +144,12 @@ namespace DojoSecrets.Controllers
             return RedirectToAction("Popular");
         }
 
+        [HttpGet]
+        public IActionResult Index()
+        {
+            return View();
+        }
+
 
 
 
