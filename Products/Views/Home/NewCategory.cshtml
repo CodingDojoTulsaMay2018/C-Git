@@ -1,0 +1,25 @@
+@model Category
+  <nav class="navbar navbar-default navbar-static-top">
+        <div class="container">
+            <a href="/AllList"  >AllList</a>
+        </div>
+    </nav>
+Create Category
+    <div class="row">
+        <div class="col-lg-6">
+            <h3 class="display-4">NewCategory</h3>
+            <form asp-action="NewCategory" asp-controller="Home" method="post">
+                <div class="form-group">
+                    <label for="Category_Name">Category_Name</label>
+                    <span class=" error" asp-validation-for="Category_Name"></span>
+                    <input type="text" class="form-control form-control-sm" asp-for="Category_Name">
+                </div>          
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+
+
+
+
+
+</div>

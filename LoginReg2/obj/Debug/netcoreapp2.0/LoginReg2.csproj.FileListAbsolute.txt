@@ -1,0 +1,11 @@
+/Users/mac/Desktop/LoginReg2/bin/Debug/netcoreapp2.0/LoginReg2.deps.json
+/Users/mac/Desktop/LoginReg2/bin/Debug/netcoreapp2.0/LoginReg2.runtimeconfig.json
+/Users/mac/Desktop/LoginReg2/bin/Debug/netcoreapp2.0/LoginReg2.runtimeconfig.dev.json
+/Users/mac/Desktop/LoginReg2/bin/Debug/netcoreapp2.0/LoginReg2.dll
+/Users/mac/Desktop/LoginReg2/bin/Debug/netcoreapp2.0/LoginReg2.pdb
+/Users/mac/Desktop/LoginReg2/obj/Debug/netcoreapp2.0/LoginReg2.csprojResolveAssemblyReference.cache
+/Users/mac/Desktop/LoginReg2/obj/Debug/netcoreapp2.0/LoginReg2.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/LoginReg2/obj/Debug/netcoreapp2.0/LoginReg2.AssemblyInfoInputs.cache
+/Users/mac/Desktop/LoginReg2/obj/Debug/netcoreapp2.0/LoginReg2.AssemblyInfo.cs
+/Users/mac/Desktop/LoginReg2/obj/Debug/netcoreapp2.0/LoginReg2.dll
+/Users/mac/Desktop/LoginReg2/obj/Debug/netcoreapp2.0/LoginReg2.pdb

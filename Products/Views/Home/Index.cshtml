@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<nav class="navbar navbar-default navbar-static-top">
+        <div class="container">
+            <a href="/AllList"  >AllList</a>
+        </div>
+    </nav>
+<div class="container">
+@model Product
+
+    <div class="row">
+        <div class="col-lg-6">
+            <h3 class="display-4">NewProduct</h3>
+            <form asp-action="NewProduct" asp-controller="Home" method="post">
+                <div class="form-group">
+                    <label for="Product_Name">Product_Name</label>
+                    <span class=" error" asp-validation-for="Product_Name"></span>
+                    <input type="text" class="form-control form-control-sm" asp-for="Product_Name">
+                </div>
+                <div class="form-group">
+                    <label for="Description">Description</label>
+                    <span class=" error" asp-validation-for="Description"></span>
+                    <input type="text" class="form-control form-control-sm" asp-for="Description">
+                </div>
+                <div class="form-group">
+                    <label for="Price">Price</label>
+                    <span class=" error" asp-validation-for="Price"></span>
+                    <input type="currency" class="form-control form-control-sm" asp-for="Price">
+                </div>
+             
+                <button type="submit" step="any" min="1"class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+
+
+
+
+
+</div>
+
+<style>
+
+    table{
+        font-size: 20px;
+        border-collapse: separate;
+        border-spacing: 30px;
+    }
+    .newProduct{
+        width: 400px;
+        border: solid rgb(216, 217, 218) 1px;
+    }
+</style>

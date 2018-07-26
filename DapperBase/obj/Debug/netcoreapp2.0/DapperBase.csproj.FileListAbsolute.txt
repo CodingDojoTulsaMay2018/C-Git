@@ -1,0 +1,10 @@
+/Users/mac/Desktop/DapperBase/obj/Debug/netcoreapp2.0/DapperBase.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/DapperBase/obj/Debug/netcoreapp2.0/DapperBase.AssemblyInfoInputs.cache
+/Users/mac/Desktop/DapperBase/obj/Debug/netcoreapp2.0/DapperBase.AssemblyInfo.cs
+/Users/mac/Desktop/DapperBase/bin/Debug/netcoreapp2.0/DapperBase.deps.json
+/Users/mac/Desktop/DapperBase/bin/Debug/netcoreapp2.0/DapperBase.runtimeconfig.json
+/Users/mac/Desktop/DapperBase/bin/Debug/netcoreapp2.0/DapperBase.runtimeconfig.dev.json
+/Users/mac/Desktop/DapperBase/bin/Debug/netcoreapp2.0/DapperBase.dll
+/Users/mac/Desktop/DapperBase/bin/Debug/netcoreapp2.0/DapperBase.pdb
+/Users/mac/Desktop/DapperBase/obj/Debug/netcoreapp2.0/DapperBase.dll
+/Users/mac/Desktop/DapperBase/obj/Debug/netcoreapp2.0/DapperBase.pdb

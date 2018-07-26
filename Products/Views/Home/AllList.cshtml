@@ -1,0 +1,22 @@
+ProductList
+
+<ul>
+    @foreach(var product in @ViewBag.allProducts)
+    {
+        
+        <li><a href="ViewProduct/@product.Id">@product.Product_Name</a></li>
+    }
+
+</ul>
+
+
+Category List
+
+<ul>
+    @foreach(var category in @ViewBag.allCategories)
+    {
+        
+        <li><a href="ViewCategory/@category.Id">@category.Category_Name</a></li>
+    }
+
+</ul>

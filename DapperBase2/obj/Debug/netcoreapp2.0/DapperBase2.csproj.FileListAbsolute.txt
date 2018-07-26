@@ -1,0 +1,3 @@
+/Users/mac/Desktop/DapperBase2/obj/Debug/netcoreapp2.0/DapperBase2.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/DapperBase2/obj/Debug/netcoreapp2.0/DapperBase2.AssemblyInfoInputs.cache
+/Users/mac/Desktop/DapperBase2/obj/Debug/netcoreapp2.0/DapperBase2.AssemblyInfo.cs

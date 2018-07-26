@@ -1,0 +1,11 @@
+/Users/mac/Desktop/Products/bin/Debug/netcoreapp2.0/Products.deps.json
+/Users/mac/Desktop/Products/bin/Debug/netcoreapp2.0/Products.runtimeconfig.json
+/Users/mac/Desktop/Products/bin/Debug/netcoreapp2.0/Products.runtimeconfig.dev.json
+/Users/mac/Desktop/Products/bin/Debug/netcoreapp2.0/Products.dll
+/Users/mac/Desktop/Products/bin/Debug/netcoreapp2.0/Products.pdb
+/Users/mac/Desktop/Products/obj/Debug/netcoreapp2.0/Products.csprojResolveAssemblyReference.cache
+/Users/mac/Desktop/Products/obj/Debug/netcoreapp2.0/Products.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Products/obj/Debug/netcoreapp2.0/Products.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Products/obj/Debug/netcoreapp2.0/Products.AssemblyInfo.cs
+/Users/mac/Desktop/Products/obj/Debug/netcoreapp2.0/Products.dll
+/Users/mac/Desktop/Products/obj/Debug/netcoreapp2.0/Products.pdb

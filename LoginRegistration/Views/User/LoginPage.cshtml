@@ -1,0 +1,24 @@
+<div class="forms" >
+
+            <form asp-action="Login" asp-controller="Home" method="post">
+
+                
+                <div class="row">
+                <span asp-validation-for="Email"></span>
+                <label asp-for="Email"></label>
+                <input asp-for="Email">
+                </div>
+
+            
+
+                <div class="row">
+                <span asp-validation-for="Password"></span>
+                <label asp-for="Password"></label>
+                <input asp-for="Password">
+                </div>
+
+                <div class="row">
+                <input value="Login" type="submit">
+                </div>
+            </form>
+    </div>

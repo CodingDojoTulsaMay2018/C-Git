@@ -1,0 +1,51 @@
+    <nav class="navbar navbar-default navbar-static-top">
+        <div class="container">
+            <a href="/CreatCategoryPage"  >Create Category</a>
+            <a href="/AllList"  >AllList</a>
+        </div>
+    </nav>
+<H1>@ViewBag.product.Product_Name</H1>
+<h5>@ViewBag.product.Description</h5>
+<h5>@ViewBag.product.Id</h5>
+<h5>@ViewBag.product.Categories.Count</h5>
+@ViewBag.allCategories.Count<br>
+@model ProductsAndCategories
+
+@foreach(var cats in @ViewBag.allCategories)
+{
+    @cats.Id<br>
+}
+
+
+
+<br>
+
+    
+        <div class="row">                         
+                <form asp-action="addCatToProd" asp-controller="Home" method="post">
+                    
+
+                        <select>
+                        @foreach(var cat in @ViewBag.allCategories)
+                        {
+                        
+                            
+                            <option asp-for="categoryId" value="@cat.Id">@cat.Category_Name </option>
+                            
+                           
+                        }
+                        </select>
+               
+
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+            
+        </div>
+
+
+
+
+
+  
+
+
